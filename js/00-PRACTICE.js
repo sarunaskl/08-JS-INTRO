@@ -40,7 +40,9 @@ console.log(`${sumaNr}`);
 //4.
 let sumaW2 =(`${Text1}, ${Text2}, ${Text3}`);
 console.log(`${sumaW2}`);
-
+console.log('-------------');
+console.log('KINTAMUJU PALYGINIMAS');
+console.log('-------------');
 //Kintamuju palyginimas
 //1.
 console.log(`Lyginima ar a = ${a} yra didesnis uz b = ${b}`);

@@ -4,8 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "01-labas":"nodemon ./js/01-labas.js",
     "02-numbers": "nodemon ./js/02-numbers.js",
-    "03-mini": "nodemon ./js/03-mini.js",
+    "03-strings": "nodemon ./js/03-strings.js",
+    "practice": "nodemon ./js/00-PRACTICE",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
