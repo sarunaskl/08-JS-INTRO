@@ -1,0 +1,17 @@
+{
+  "name": "08-js-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "02-numbers": "nodemon ./js/02-numbers.js",
+    "03-mini": "nodemon ./js/03-mini.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
