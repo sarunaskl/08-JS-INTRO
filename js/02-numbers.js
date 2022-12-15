@@ -5,22 +5,27 @@
         - NaN (not-a-number)
     - sveikieji/desimtainiai
     - teigiami/neigiami
+
     INICIAVIMAS:
     const - nekeiciama reiksme (default)
     let - kintama reiksme (sekantis tinkamas pasirinkimas, jei netinka const)
     var - niekada nenaudoti (seniena)
+
     SUTRUMPINIMAI:
     x = x + 2 -> x += 2
     x = x - 2 -> x -= 2
     x = x * 2 -> x *= 2
     x = x / 2 -> x /= 2
     x = x % 2 -> x %= 2
+
     jei padydinti reikia tik 1 vienetu, tai:
     x = x + 1 -> x += 1 -> x++
     x = x + 1 -> x += 1 -> ++x
+
     jei sumazinti reikia tik 1 vienetu, tai:
     x = x - 1 -> x -= 1 -> x--
     x = x - 1 -> x -= 1 -> --x
+
 */
 
 const PI = 3.14;

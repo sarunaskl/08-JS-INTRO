@@ -1,19 +1,26 @@
 {
-  "name": "08-js-intro",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "01-labas":"nodemon ./js/01-labas.js",
-    "02-numbers": "nodemon ./js/02-numbers.js",
-    "03-strings": "nodemon ./js/03-strings.js",
-    "practice": "nodemon ./js/00-PRACTICE",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^2.0.20"
-  }
+    "name": "41-grupe-js-intro",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "shop": "nodemon ./tasks/shop.js",
+        "for": "nodemon ./js/10-for.js",
+        "if": "nodemon ./js/09-if.js",
+        "function": "nodemon ./js/08-function.js",
+        "object": "nodemon ./js/07-object.js",
+        "typeof": "nodemon ./js/06-typeof.js",
+        "array": "nodemon ./js/05-array.js",
+        "boolean": "nodemon ./js/04-boolean.js",
+        "strings": "nodemon ./js/03-strings.js",
+        "numbers": "nodemon ./js/02-numbers.js",
+        "labas": "nodemon ./js/01-labas.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Rimantas (https://github.com/belauzas)",
+    "license": "MIT",
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    }
 }

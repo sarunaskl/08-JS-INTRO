@@ -1,1 +1,10 @@
-console.log('labas rytas');
+console.log(777);
+console.log('Labas rytas');
+
+// Vienos eilutes komentaras
+
+/*
+Keliu 
+eiluciu
+komentaras
+*/
