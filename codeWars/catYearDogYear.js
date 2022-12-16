@@ -21,6 +21,3 @@ let dogYears = 0;
 }
 
 
-
-console.log(humanYearsCatYearsDogYears(4));
-
