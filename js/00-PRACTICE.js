@@ -14,16 +14,7 @@ console.log(`${Text2}`);
 const Text3 = `Visiem`;
 console.log(`${Text3}`);
 //3.
-let kint1 = 1;
-console.log(`${kint1}`);
-let kint2 = 10;
-console.log(`${kint2}`);
-let kint3 = 100;
-console.log(`${kint3}`);
-let kint4 = 1000;
-console.log(`${kint4}`);
-let kint5 = 10000;
-console.log(`${kint5}`);
+let ArrayA = [5, 345, 53, 65, 3];
 
 //Veiksmai su skaiciais
 //1.

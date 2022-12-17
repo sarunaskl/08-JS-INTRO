@@ -4,6 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
+        "nofive": "nodemon ./codeWars/nofive.js",
         "catDog": "nodemon ./codeWars/catYearDogYear.js",
         "shop": "nodemon ./tasks/shop.js",
         "for": "nodemon ./js/10-for.js",
